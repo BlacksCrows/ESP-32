@@ -1,4 +1,4 @@
-qml-cvcamera
+Access to the camera of the computer and android devices
 ============
 
 CVCamera is a QML wrapper for fast camera access using OpenCV. It works on desktop and Android.
@@ -9,7 +9,7 @@ The following is required for CVCamera to work:
   - Qt `5.3.2` (also tested on `5.3.1`)
   - OpenCV `3.0.0-alpha`(master build should also just work)
 
-QML API
+ESP-32 API
 -------
 
 The QML API consists of the following:
